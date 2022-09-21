@@ -1,3 +1,5 @@
+-- Postgres criado pelo docker https://www.notion.so/Comandos-docker-7161fdd7e8364995a20a1a69269ec329
+
 CREATE DATABASE mycontacts;
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
